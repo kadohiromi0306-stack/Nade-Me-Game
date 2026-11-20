@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 660">
+<defs><linearGradient id="hair" x2=".7" y2="1"><stop stop-color="#acc2ed"/><stop offset="1" stop-color="#5e79af"/></linearGradient><linearGradient id="outfit" x2="1" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#bfc8f2"/></linearGradient></defs>
+<g stroke="#617295" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+<path d="M104 294Q100 49 268 48Q441 38 448 281L463 547Q390 610 354 554L184 560Q121 626 86 551Z" fill="url(#hair)"/>
+<path d="M118 496Q175 452 228 463h119Q415 460 455 503l52 180H54Z" fill="url(#outfit)"/>
+<path d="M243 418v82Q282 523 322 498v-80Z" fill="#ffe1d8"/>
+<path d="M156 215Q156 84 285 81Q406 90 410 222v115Q390 446 280 466Q172 449 154 336Z" fill="#fbe2db"/>
+<path d="M131 212Q140 48 267 57Q408 37 437 223Q394 196 362 147Q320 196 281 192Q241 226 188 171Q181 209 131 212Z" fill="url(#hair)"/>
+<path d="M147 209Q109 332 148 483Q156 523 192 535Q166 408 176 275M404 219Q440 363 405 492Q394 520 374 527Q391 387 382 278" fill="url(#hair)"/>
+<path d="M193 304q32-25 66 5M315 309q32-29 66 1" fill="none" stroke="#647192" stroke-width="11"/>
+<ellipse cx="228" cy="323" rx="16" ry="23" fill="#6783af" stroke="none"/><ellipse cx="345" cy="323" rx="16" ry="23" fill="#6783af" stroke="none"/>
+<path d="M270 382q15 10 31 0" fill="none" stroke="#c6889d" stroke-width="5"/>
+<path d="M186 361h44M348 361h36" stroke="#e5adba" stroke-width="10" opacity=".45"/>
+<path d="M209 475l74 79 75-79-39 129-36-40-34 40Z" fill="#eef3ff"/>
+<path d="M255 542l28 25 26-25-25 66Z" fill="#859acf"/>
+<path d="M400 103l21 19 28 2-18 22 0 30-30-14-27 13 4-30-21-20 30-2Z" fill="#ffeb99"/>
+</g><text x="280" y="632" fill="#6e82ad" text-anchor="middle" font-size="22" font-family="sans-serif">TEMP CHARACTER 03</text>
+</svg>
